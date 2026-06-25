@@ -1,0 +1,23 @@
+body{
+    text-align:center;
+    font-family:Arial, sans-serif;
+    background:#f5f5f5;
+}
+
+h1{
+    margin-top:20px;
+}
+
+#board{
+    width:500px;
+    margin:20px auto;
+}
+
+.info{
+    width:500px;
+    margin:auto;
+    background:white;
+    padding:10px;
+    border-radius:10px;
+    box-shadow:0px 0px 10px gray;
+}
